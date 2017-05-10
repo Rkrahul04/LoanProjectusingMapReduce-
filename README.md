@@ -64,7 +64,7 @@ simple interest.
 
 *Output:*
 
-![digram-6](https://github.com/Rkrahul04/blog/blob/master/loan_6.jpg)
+![digram-6](https://github.com/Rkrahul04/blog/blob/master/loan_6.jpg?raw=true)
 
 ![digram-7](http://images.all-free-download.com/images/graphicthumb/flower_summer_flowers_yellow_flower_215887.jpg)
 
