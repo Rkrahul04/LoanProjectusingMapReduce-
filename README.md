@@ -11,3 +11,11 @@ Here, we have chosen the loan dataset on which we have performed map-reduce oper
 1. Get the total number of loans with loan id and load amount which are all having loa
    status as Late?
 1. Average loan interest rate with 60 month term and 36 month term. 
+
+## Tools and Technologies used: 
+ 
+1. Hadoop Environment 
+1. Eclipse
+
+### Dataflow Diagram:
+![Diagram](https://github.com/Rkrahul04/blog/blob/master/loan_1.jpg)
