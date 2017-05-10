@@ -27,6 +27,7 @@ have imported the complete project in our workspace of eclipse and configured al
 are present under lib folder. 
 
 *Command: Hadoop dfs –copyFromLocal loan.csv hdfs:/*
+
 *Command: Hadoop jar loan1.jar /loan.csv /loan_output*
 
 ![digram-2](https://github.com/Rkrahul04/blog/blob/master/loan_2.jpg)
@@ -43,6 +44,7 @@ Here, we have created the output folder loan_output, where we are storing the ou
 We have moved the data to HDFS, then execute the Hadoop command on dataset.
 
 *Command: Hadoop dfs –copyFromLocal loan.csv hdfs:/*
+
 *Command: Hadoop jar loan2.jar /loan.csv /loan_output2*
 ![digram-5](https://github.com/Rkrahul04/blog/blob/master/loan_5.jpg)
 
