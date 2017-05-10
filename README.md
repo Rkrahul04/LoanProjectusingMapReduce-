@@ -61,6 +61,7 @@ We have converted the integer parts to float values and have taken the interest 
 simple interest. 
 
 *Output:*
+
 ![digram-6](https://github.com/Rkrahul04/blog/blob/master/loan_6.jpg)
 
 
