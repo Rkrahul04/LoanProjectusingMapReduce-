@@ -18,7 +18,7 @@ Here, we have chosen the loan dataset on which we have performed map-reduce oper
 1. Eclipse
 
 ## Dataflow Diagram:
-![Diagram](https://github.com/Rkrahul04/blog/blob/master/loan_1.jpg)
+![Diagram](https://github.com/Rkrahul04/blog/blob/master/loan_1.jpg?raw=true)
 
 ## Implementation:
 
@@ -30,14 +30,14 @@ are present under lib folder.
 
 *Command: Hadoop jar loan1.jar /loan.csv /loan_output*
 
-![digram-2](https://github.com/Rkrahul04/blog/blob/master/loan_2.jpg)
+![digram-2](https://github.com/Rkrahul04/blog/blob/master/loan_2.jpg?raw=true)
 
 Here, we have created the output folder loan_output, where we are storing the output.
 
-![digram-3](https://github.com/Rkrahul04/blog/blob/master/loan_3.jpg)
+![digram-3](https://github.com/Rkrahul04/blog/blob/master/loan_3.jpg?raw=true)
 
 ## Output:
-![digram-4](https://github.com/Rkrahul04/blog/blob/master/loan_4.jpg)
+![digram-4](https://github.com/Rkrahul04/blog/blob/master/loan_4.jpg?raw=true)
 
 *Problem 2: Finding the list of people with having interest more than certain value like 
 1000.* 
@@ -46,7 +46,7 @@ We have moved the data to HDFS, then execute the Hadoop command on dataset.
 *Command: Hadoop dfs –copyFromLocal loan.csv hdfs:/*
 
 *Command: Hadoop jar loan2.jar /loan.csv /loan_output2*
-![digram-5](https://github.com/Rkrahul04/blog/blob/master/loan_5.jpg)
+![digram-5](https://github.com/Rkrahul04/blog/blob/master/loan_5.jpg?raw=true)
 
 Here, we have created the output folder loan_output2, where we are storing the output.
 
@@ -66,5 +66,5 @@ simple interest.
 
 ![digram-6](https://github.com/Rkrahul04/blog/blob/master/loan_6.jpg?raw=true)
 
-![digram-7](http://images.all-free-download.com/images/graphicthumb/flower_summer_flowers_yellow_flower_215887.jpg)
+
 
